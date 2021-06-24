@@ -1,11 +1,9 @@
 
 <h1 align="center"> Hi there :octocat: I'm Ibrahima👋</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Ibrahima | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Ibrahima's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 
@@ -17,9 +15,6 @@ I'm a passionate self-taught Full Stack web developer :technologist: and a Cloud
 
 I am also an open-source lover. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<p align="center">
-    <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</p>
 
 
   ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
