@@ -78,6 +78,6 @@ I am also an open-source lover. I learned a lot from the open-source community a
 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ibrahima-bira1210&show_icons=true&theme=gotham" alt="Ibrahima-bira1210" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahima-bira1210&layout=compact&theme=gotham&show_icons=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahima-bira1210&layout=compact&theme=gotham&show_icons=true"/> -->
   
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
