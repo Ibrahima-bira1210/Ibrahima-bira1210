@@ -11,7 +11,7 @@
 
 <br />
 
-I'm a passionate web developer :technologist: and a Cloud technology enthusiast from Dakar :senegal: . My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a passionate web developer :technologist: and a Cloud technology enthusiast from Dakar :senegal: .  I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source lover. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
