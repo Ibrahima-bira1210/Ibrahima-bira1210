@@ -72,7 +72,7 @@ I am also an open-source lover. I learned a lot from the open-source community a
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Kubernetes](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=kubernetes)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-FCA121?style=flat-square&logo=kubernetes)
 
 
 📈 My GitHub Stats
