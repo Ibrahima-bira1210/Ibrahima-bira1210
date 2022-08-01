@@ -35,7 +35,7 @@ I am also an open-source lover. I learned a lot from the open-source community a
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
+![REACT](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 
@@ -72,7 +72,7 @@ I am also an open-source lover. I learned a lot from the open-source community a
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+![Kubernetes](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=kubernetes)
 
 
 📈 My GitHub Stats
