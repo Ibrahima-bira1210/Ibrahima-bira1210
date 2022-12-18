@@ -11,8 +11,7 @@
 
 <br />
 
-I'm a passionate web developer :technologist: and a Cloud technology enthusiast from Paris :france: .  I take great care in the experience, architecture, and code quality of the things I build.
-
+I’m a Software Engineer from Paris  with a passion for all about DevOps and Cloud. My mission is to build a product that makes you look and feel incredible. I believe that technology can bring true revolution in all fields of work.In my free time, you’ll find me playing football or watching formula 1 race.
 I am also an open-source lover. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
